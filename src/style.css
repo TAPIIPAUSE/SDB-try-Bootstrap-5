@@ -1,0 +1,12 @@
+
+body {
+    background-color: azure;
+    padding: 0 24px;
+    margin: 0;
+    height: 100vh;
+}
+
+.image {
+    position: absolute;
+    align-items: center;
+} 
